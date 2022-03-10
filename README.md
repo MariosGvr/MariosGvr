@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Marios Gavrielatos
+- 👀 I’m interested in Biomedical Data Science and AI
+- 🌱 I’m currently pursuing a master's degree in Bioinformatics and Biomedical Data science
+- 📫 How to reach me: https://www.linkedin.com/feed/ or margabrielatos@gmail.com
