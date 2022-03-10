@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Marios Gavrielatos
+- 👋 Hi, I’m Mario and I have a Bachelor degree in Biology from NKUA
 - 👀 I’m interested in Biomedical Data Science and AI
 - 🌱 I’m currently pursuing a master's degree in Bioinformatics and Biomedical Data science
 - 📫 How to reach me: www.linkedin.com/in/mariosgav or margabrielatos@gmail.com
