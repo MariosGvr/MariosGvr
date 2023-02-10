@@ -14,8 +14,8 @@ Biologist 🧬 transformed into Data Scienctist 👨🏽‍💻
 
 
 *   🌍  I'm based in Athens, Greece
-*   🖥️  See my portfolio at [GitHub](https://github.com/MariosGvr)
-*   ✉️  You can contact me at [LinkedIn](www.linkedin.com/in/mariosgav) or margabrielatos@gmail.com
+*   🖥️  See my portfolio at [GitHub](https://github.com/MariosGvr) 
+*   ✉️  You can contact me at [LinkedIn](https://www.linkedin.com/in/mariosgvr/) or margabrielatos@gmail.com
 *   🧠  I'm currently learning [PyTorch](https://www.udemy.com/course/pytorch-for-deep-learning/), [FAST.AI](https://www.fast.ai/) and Time Series analysis.
 *   🤝  I'm open to collaborating on interesting projects and ideas around the Machine Learning and AI world. 
 
