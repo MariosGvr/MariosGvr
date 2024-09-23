@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Biologist 🧬 transformed into Data Scientist 👨🏽‍💻
 -----------------------------------------------------
 
-☞ BSc in Biology, my year-long thesis project revolved around Second and Third generation sequencing data analysis for genome assembly and genome annotation. 
-
 💻 Coding since 2018, fascinated by the endless possibilities of the vast amount of biological data I decided to follow a different path into Biomedical Data Science. 
 
 *   ✉️  You can contact me at [LinkedIn](https://www.linkedin.com/in/mariosgvr/) or margabrielatos@gmail.com
