@@ -3,6 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Biologist 🧬 transformed into Data Scientist 👨🏽‍💻
 -----------------------------------------------------
+BSc in Biology | MSc in Bioinformatics and Biomedical Data Science
+
+I am currently working at Mayo Clinic, FL as a Bioinformatician interested in long-read sequencing technologies for discovering simple and complex genomics variants and RNA isoform analysis.
 
 💻 Coding since 2018, fascinated by the endless possibilities of the vast amount of biological data I decided to follow a different path into Biomedical Data Science. 
 
