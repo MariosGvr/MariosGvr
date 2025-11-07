@@ -1,8 +1,6 @@
-
-==========================================================================================================================================
-Bioinformatician and Biomedican Data Scientist 🧬 👨🏽‍💻
+Bioinformatician and Biomedical Data Scientist 🧬 👨🏽‍💻
 -----------------------------------------------------
-BSc in Biology | MSc in Bioinformatics and Biomedical Data Science | PhD Student in Computational Biology in CPCB 
+BSc in Biology | MSc in Bioinformatics and Biomedical Data Science | PhD Student in Computational Biology in [CPCB](https://www.compbio.cmu.edu/) 
 
 *   ✉️  You can contact me at [LinkedIn](https://www.linkedin.com/in/mariosgvr/) or mar.gavrielatos@gmail.com
 *   🤝  I'm open to collaborating on interesting projects and ideas around the Machine Learning and AI world. 
