@@ -1,13 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Marios
+
 ==========================================================================================================================================
-
-Biologist 🧬 transformed into Data Scientist 👨🏽‍💻
+Bioinformatician and Biomedican Data Scientist 🧬 👨🏽‍💻
 -----------------------------------------------------
-BSc in Biology | MSc in Bioinformatics and Biomedical Data Science
-
-I am currently working at Mayo Clinic, FL as a Bioinformatician interested in long-read sequencing technologies for discovering simple and complex genomics variants and RNA isoform analysis.
-
-💻 Coding since 2018, fascinated by the endless possibilities of the vast amount of biological data I decided to follow a different path into Biomedical Data Science. 
+BSc in Biology | MSc in Bioinformatics and Biomedical Data Science | PhD Student in Computational Biology in CPCB 
 
 *   ✉️  You can contact me at [LinkedIn](https://www.linkedin.com/in/mariosgvr/) or mar.gavrielatos@gmail.com
 *   🤝  I'm open to collaborating on interesting projects and ideas around the Machine Learning and AI world. 
